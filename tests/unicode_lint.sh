@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/sw/bash/bin/bash
 
 # `unicode_lint.sh' determines whether source files under the ./lib/, ./tests/ and ./programs/ directories
 # contain Unicode characters, and fails if any do.

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/sw/bash/bin/bash
 
 SKIPFILE="goldenSamples/skip.bin"
 FPREFIX="tmp-lsk"
